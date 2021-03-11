@@ -6,12 +6,12 @@ h1{
 }
 h2 {
     color: yellow;
-    background-color: cornflowerblue;
+    background-color: rgb(7, 36, 1);
 }
 h3{
     color: green;
 }
-.pie {
+pie {
     background-color: darkblue;
     color: white;
 }
